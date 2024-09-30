@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning github..
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me (@chetanmagadum)
-- 😄 Pronouns: ...
+- 😄 Pronouns:
 - ⚡ Fun fact: ...
 
 <!---
