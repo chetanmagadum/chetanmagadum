@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @chetanmagadum
-- 👀 I’m interested in project management..
-- 🌱 I’m currently learning github..
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me (@chetanmagadum)
-- 😄 Pronouns:
-- ⚡ Fun fact: ...
-
-<!---
-chetanmagadum/chetanmagadum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there 👋, I'm Chetan Magadum
+💻 Computer Science Engineering Student | Backend Developer | AI Enthusiast
+I'm a Computer Science Engineering student passionate about building scalable backend systems, full-stack web applications, and AI-powered solutions. I enjoy solving challenging problems, learning new technologies, and contributing to impactful projects.
+🚀 About Me
+🎓 B.E. Computer Science & Engineering (2023–2027)
+🌱 Currently exploring Distributed Systems, Cloud Computing, and AI Agents
+💡 Interested in Backend Development, Software Engineering, and Artificial Intelligence
+🧠 Solved 150+ DSA problems on LeetCode & GeeksforGeeks
+🤝 Open to internships, collaborations, and open-source contributions
